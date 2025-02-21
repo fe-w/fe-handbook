@@ -1,6 +1,6 @@
 # Front-End Handbook 2025
 
-| Chapter | Title | Content |
+| No. | Title | Content |
 |---------|--------|---------|
 | 1 | How to Study Programming | 1-1. Self-assessment of Knowledge and Skills<br/>1-2. Fundamentals, Understanding the Overall Flow, Learning in Practice, Additional Learning |
 | 2 | Web Fundamentals | 2-1. Multi-device, Multi-browser, User Agent Reset<br>2-2. Browser Developer Tools (Chrome DevTools)<br>2-3. Creating and Comparing Websites with AI Prompts
@@ -11,7 +11,7 @@
 
 # JavaScript
 
-| Chapter | Title | Content |
+| No. | Title | Content |
 |---------|--------|---------|
 | 1 | Before Writing Code | 1-1. File and Folder Structure Management for HTML, CSS, and JS<br>1-2. JavaScript Development Environment (Browser, Runtime)<br>1-3. JavaScript Ecosystem Overview (JS, NodeJS, Engines, Web Standards, Environments, Networks, Libraries, Frameworks, CSR, SSR) |
 | 2 | Core JavaScript Fundamentals | 2-1. Variables and Data Types<br>2-2. Operators and Control Flow (Loops, Conditionals, Operators)<br>2-3. Functions and Scope<br>2-4. Objects and Arrays<br>2-5. Error Handling |
