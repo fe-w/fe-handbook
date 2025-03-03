@@ -1,5 +1,7 @@
 # Front-End Handbook 2025
 
+# web-fundamentals
+
 | No. | Title | Content |
 |---------|--------|---------|
 | 1 | How to Study Programming | 1-1. Self-assessment of Knowledge and Skills<br/>1-2. Fundamentals, Understanding the Overall Flow, Learning in Practice, Additional Learning |
