@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wfedev.github.io/fe-handbook/sitemap.xml

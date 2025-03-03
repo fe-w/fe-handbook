@@ -27,7 +27,14 @@
 Writing...
 
 
+# TypeScript
 
+Writing...
+
+
+# NextJS
+
+Writing...
 
 # wireframe
 
@@ -37,7 +44,7 @@ Writing...
 | 2 | Common Elements | Defining common pages, colors, fonts, and components |
 | 3 | Figma Prototype | Connecting Figma prototypes for interaction flow |
 
-# basic-project
+# js-prj
 
 | No. | Task | Details |
 |-----|------|---------|
@@ -48,9 +55,27 @@ Writing...
 | 5 | Data Tables | 5-1. Display (Processing JSON/CSV data, Rendering charts)<br>5-2. File Handling (Table CRUD operations)<br>5-3. Functions (Pagination/sorting/filtering)<br>5-4. UI Elements (Calendar/search functionality) |
 | 6 | Form Data | 6-1. Management (Saving/editing data)<br>6-2. Validation (Phone number/email/social security number validation) |
 
-# react-project
+# ts-prj
 
 Writing...
+
+# react-prj
+
+Writing...
+
+# nextjs-prj
+
+Writing...
+
+# web-performance
+
+| No. | Key Factor | Description |
+|-----|-----------|-------------|
+| 1 | Initial Load Time | The time it takes for a website to fully load in the user's browser.<br/>Affected by server response time, JavaScript bundle size, and image optimization. |
+| 2 | Rendering Performance | How fast a page is displayed in the browser.<br/>Related to Client-Side Rendering (CSR), Server-Side Rendering (SSR), and dynamic loading. |
+| 3 | Interaction Responsiveness | Ensures that buttons and inputs respond without delay.<br/>Affected by React state management, event handling, and memory optimization. |
+| 4 | Network Performance | Measures how efficiently data is retrieved from the server.<br/>Influenced by CDN usage, API response optimization, and compression techniques. |
+| 5 | Frame Rate (FPS) | Ensures smooth animations and scrolling (typically targeting 60FPS).<br/>Optimized using requestAnimationFrame and WebGL techniques. |
 
 
 
