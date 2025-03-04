@@ -4,12 +4,13 @@
 
 | No. | Title | Content |
 |---------|--------|---------|
-| 1 | How to Study Programming | 1-1. Self-assessment of Knowledge and Skills<br/>1-2. Fundamentals, Understanding the Overall Flow, Learning in Practice, Additional Learning |
-| 2 | Web Fundamentals | 2-1. Multi-device, Multi-browser, User Agent Reset<br>2-2. Browser Developer Tools (Chrome DevTools)<br>2-3. Creating and Comparing Websites with AI Prompts |
-| 3 | Planning, HTML&CSS Fundamentals guide | 3-1. Wireframe Planning with Figma<br/>3-2. Hyper Text Markup Language(HTML) Basic, Data Formats (HTML, XML, JSON, YAML)<br/>3-3. Cascading Style Sheets(CSS), CSS Module, CSS in CSS, CSS in JS, Nesting, CSS Style Preprocessors, Style Libraries, CSS Basic Properties, Responsive Web, Media Queries |
-| 4 | Basic Deployment | 4-1. Types and Reasons for Deployment, Front-end deployment<br>4-2. Local Server Deployment on Your Computer<br>4-3. Deployment with Free GitHub Pages Hosting |
-| 5 | Collaboration Tools | 5-1. Git Commands, Branch (Local Branch, Remote Branch)<br/>5-2. PR, Issue, Git Graph with Editor |
-| 6 | Development Tools | 6-1. Code Editor (VSCode, CursorAI)(Extensions & Shortcuts)<br>6-2. Coding with AI 🎵 |
+| 1 | How to Learn Programming | 1-1. Self-assessment of Knowledge and Skills<br/>1-2. Fundamentals, Understanding the Overall Flow, Learning in Practice, Additional Learning |
+| 2 | Web Compatibility | 2-1. Multi-device, Multi-browser, User Agent Reset<br>2-2. Browser Developer Tools (Chrome DevTools)<br>2-3. Creating and Comparing Websites with AI Prompts |
+| 3 | Project Planning | 3-1. Wireframe Planning with Figma<br/>3-2. Software Development Life Cycle (SDLC)
+| 4 | HTML, CSS Fundamentals | 4-1. Hyper Text Markup Language(HTML) Basic, Data Formats (HTML, XML, JSON, YAML)<br/>4-2. Cascading Style Sheets(CSS), CSS Module, CSS in CSS, CSS in JS, Nesting, CSS Style Preprocessors, Style Libraries, CSS Basic Properties, Responsive Web, Media Queries |
+| 5 | Basic Deployment | 5-1. Types and Reasons for Deployment, Front-end deployment<br>5-2. Local Server Deployment on Your Computer<br>5-3. Deployment with Free GitHub Pages Hosting |
+| 6 | Collaboration Tools | 6-1. Git Commands, Branch (Local Branch, Remote Branch)<br/>6-2. PR, Issue, Git Graph with Editor |
+| 7 | Development Tools | 7-1. Code Editor (VSCode, CursorAI)(Extensions & Shortcuts)<br>7-2. Coding with AI 🎵 |
 
 # JavaScript
 
@@ -45,6 +46,19 @@ Writing...
 | 1 | Wireframe Planning | Creating wireframes for project layout |
 | 2 | Common Elements | Defining common pages, colors, fonts, and components |
 | 3 | Figma Prototype | Connecting Figma prototypes for interaction flow |
+| 4 | Design Token | Managing colors, fonts, and spacing in JSON |
+
+# SDLC
+
+| No. | Phase | Description |
+|-----|--------|-------------|
+| 1 | Requirements Analysis | Identifying project requirements, business needs, and technical constraints. |
+| 2 | Design | Creating software architecture, data flow diagrams, and UI/UX planning. |
+| 3 | Implementation | Writing code, integrating components, and building the core functionality. |
+| 4 | Testing | Conducting unit tests, integration tests, and performance evaluations. |
+| 5 | Deployment | Releasing the software to production and setting up CI/CD pipelines. |
+| 6 | Maintenance & Monitoring | Updating software, fixing bugs, and optimizing performance. |
+
 
 # js-prj
 
@@ -81,3 +95,60 @@ Writing...
 
 
 
+# html-css
+
+| No. | Topic | Details |
+|-----|-------|---------|
+| 1 | HTML Basics | Structure, Elements, Attributes |
+| 2 | Data Formats | HTML, XML, JSON, YAML |
+| 3 | CSS Basics | Selectors, Box Model, Display, Positioning |
+| 4 | Advanced CSS | CSS Modules, CSS-in-CSS, CSS-in-JS, Nesting, Preprocessors |
+| 5 | Responsive Web | Media Queries, Flexbox, Grid |
+| 6 | UI Styling | Typography, Colors, Animations |
+
+# web-compatibility
+
+| No. | Topic | Details |
+|-----|-------|---------|
+| 1 | Multi-device Support | Ensuring compatibility across desktops, tablets, and mobile devices |
+| 2 | Cross-Browser Compatibility | Handling differences in Chrome, Firefox, Edge, Safari, etc. |
+| 3 | User Agent Reset | Standardizing styles across different browsers |
+| 4 | Browser Developer Tools | Chrome DevTools, Inspecting elements, debugging, and optimizing performance |
+| 5 | AI-Powered Web Testing | Using AI tools to generate and compare website versions |
+
+# basic-deployment
+
+| No. | Topic | Details |
+|-----|-------|---------|
+| 1 | Deployment Types, Purpose | Understanding different deployment methods and their use cases |
+| 2 | Front-end Deployment | How to deploy front-end applications |
+| 3 | Local Server Deployment | Setting up a local server on your computer |
+| 4 | GitHub Pages Deployment | Deploying a static site for free using GitHub Pages |
+
+# collaboration-tools
+
+| No. | Topic | Details |
+|-----|-------|---------|
+| 1 | Git Commands | Common Git commands for version control |
+| 2 | Branching | Managing local and remote branches |
+| 3 | Pull Requests (PR) | Collaborating with teams using pull requests |
+| 4 | Issues | Tracking bugs and feature requests with issues |
+| 5 | Git Graph & Editor Integration | Visualizing commits and managing Git within code editors |
+
+# dev-tools
+
+| No. | Topic | Details |
+|-----|-------|---------|
+| 1 | Code Editors | Overview of popular code editors like VSCode, CursorAI |
+| 2 | Extensions & Shortcuts | Useful extensions and productivity shortcuts |
+| 3 | AI-assisted Coding | Enhancing development with AI-powered tools |
+
+# how-to-learn-programming
+
+| No. | Topic | Details |
+|-----|-------|---------|
+| 1 | Self-assessment | Evaluating current knowledge and skills |
+| 2 | Fundamentals | Understanding basic programming concepts |
+| 3 | Learning Flow | Grasping the overall software development process |
+| 4 | Practical Learning | Applying knowledge through hands-on practice |
+| 5 | Additional Learning | Exploring advanced topics and continuous improvement |
